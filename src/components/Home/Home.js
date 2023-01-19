@@ -9,8 +9,10 @@ const Home = () => {
     
     return (
         <div className={`${dark&& 'bg-black'}`}>
-            <button onClick={()=> setDark(true)}>Dark</button>
-            <button onClick={()=>setDark(false)}>Light</button>
+          <div className='mt-5 mb-5 flex justify-end gap-3'>
+          <button className='btn btn-dark' onClick={()=> setDark(true)}>Dark Theme</button>
+            <button className='btn btn-primary' onClick={()=>setDark(false)}>Light Theme</button>
+          </div>
             {
                 slides?.map(slide => <Slides
                 key={slide.id}

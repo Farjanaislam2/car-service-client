@@ -5,9 +5,9 @@
       "name": "Ferrari",
       "about":"From our past, we've learned perfection. This is how the first model of the Ferrari Huracán was born.",
       "Milege":"32,000",
-      "Seating Capacity":"5",
-      "Engine Capacity":"1500 cc",
-      "Fuel Type":"Octane",
+      "SeatingCapacity":"5",
+      "EngineCapacity":"1500cc",
+      "FuelType":"Octane",
       "Price":"37,20,000"
     },
     {
@@ -16,9 +16,9 @@
       "name": "Audi",
       "about":"First Nuremberg, then Zurich, then Salzburg, Berlin and Munich. The Audi charging hub’s flexible, modular charging concept is flourishing. Drivers of electric cars appreciate",
       "Milege":"32,000",
-      "Seating Capacity":"5",
-      "Engine Capacity":"1500 cc",
-      "Fuel Type":"Octane",
+      "SeatingCapacity":"5",
+      "EngineCapacity":"1500 cc",
+      "FuelType":"Octane",
       "Price":"40,20,000"
 
     },
@@ -28,9 +28,9 @@
       "name": "Lamborgini",
       "about":"From our past, we've learned perfection. This is how the first model of the Lamborghini Huracán was born.",
       "Milege":"32,000",
-      "Seating Capacity":"5",
-      "Engine Capacity":"1500 cc",
-      "Fuel Type":"Octane",
+      "SeatingCapacity":"5",
+      "EngineCapacity":"1500 cc",
+      "FuelType":"Octane",
       "Price":"55,20,000"
     },
     {
@@ -39,9 +39,9 @@
       "name": "Tesla",
       "about":"Tesla All-Wheel Drive has two independent motors for improved redundancy, each with only one moving part for minimal maintenance and maximum durability.",
       "Milege":"32,000",
-      "Seating Capacity":"5",
-      "Engine Capacity":"1500 cc",
-      "Fuel Type":"Octane",
+      "SeatingCapacity":"5",
+      "EngineCapacity":"1500 cc",
+      "FuelType":"Octane",
       "Price":"20,20,000"
     },
     {
@@ -50,9 +50,9 @@
       "name": "Honda",
       "about":"From our past, we've learned perfection. This is how the first model of the Honda Huracán was born.",
       "Milege":"32,000",
-      "Seating Capacity":"5",
-      "Engine Capacity":"1500 cc",
-      "Fuel Type":"Octane",
+      "SeatingCapacity":"5",
+      "EngineCapacity":"1500 cc",
+      "FuelType":"Octane",
       "Price":"67,20,000"
 
     },
@@ -62,9 +62,9 @@
       "name": "BMW",
       "about":"From our past, we've learned perfection. This is how the first model of the BMW Huracán was born.",
       "Milege":"32,000",
-      "Seating Capacity":"5",
-      "Engine Capacity":"1500 cc",
-      "Fuel Type":"Octane",
+      "SeatingCapacity":"5",
+      "EngineCapacity":"1500 cc",
+      "FuelType":"Octane",
       "Price":"37,20,000"
     }
   ]

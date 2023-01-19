@@ -5,6 +5,7 @@ import Home from './../components/Home/Home';
 import Profile from './../components/Home/Profile/Profile';
 import CardDetails from './../components/Card/CardDetails';
 import About from './../components/Home/About/About';
+import CardData from "../components/Card/CardData";
 
 const router = createBrowserRouter([
 {
@@ -24,7 +25,8 @@ const router = createBrowserRouter([
      },
      {
         path: "/cardDetails/:id",
-        element: <CardDetails></CardDetails>
+         loader:({params}) => fetch(`https://car-service-server-khaki.vercel.app/data-categories/${params.id}`),
+        element: <CardData></CardData>
      },
 
      {

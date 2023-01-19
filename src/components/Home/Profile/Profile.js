@@ -12,10 +12,25 @@ const Profile = () => {
                 <p>Gmail: farjanaanika2@gnail.com</p>
                 </div>
                <div className='flex gap-3 mt-5'>
-               
-               <h2><FaGithub></FaGithub> </h2>
-                <h2><FaFacebook></FaFacebook> </h2>
-                <h2><FaLinkedin></FaLinkedin></h2>
+               <a
+            href="https://github.com/Farjanaislam2?tab=repositories"
+            target="_blank"
+          >
+            <FaGithub></FaGithub>
+          </a>
+          <a
+            href="https://www.linkedin.com/in/farjana-islam-anika/"
+            target="_blank"
+          >
+            <FaLinkedin></FaLinkedin>
+          </a>
+          <a
+            href="https://www.facebook.com/Sohelfarjana123"
+            target="_blank"
+          >
+            <FaFacebook></FaFacebook>
+          </a>
+              
                </div>
                 
 
